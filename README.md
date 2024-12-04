@@ -44,13 +44,13 @@ Total Groups = DISTINCTCOUNT(lego_sets[themeGroup])
 <b>3. Average Age </b>
 
 ```
-Avg. Age = AVERAGE(lego_sets[Age])
+Avg. Age = AVERAGE(lego_sets[age])
 ```
 
 <b>4. Average Price </b>
 
 ```
-Avg. Price = AVERAGE(lego_sets[US_retailPrice])
+Avg. Price = AVERAGE(lego_sets[price])
 ```
 
 <b>5. Average Pieces </b>
