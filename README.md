@@ -98,5 +98,3 @@ Avg. Pieces = AVERAGE(lego_sets[pieces])
 ![1](https://github.com/user-attachments/assets/cf167a87-ba24-4c50-9881-8caa93bba362)
 
 ![2](https://github.com/user-attachments/assets/c0b6fdbd-18cc-400b-8c84-0b56a1184de0)
-
-## Insights 
