@@ -10,7 +10,6 @@
 - [Data Cleaning](#data-cleaning)
 - [Important KPIs](#important-kpis)
 - [Dashboard Preview](#dashboard-preview)
-- [Insights](#insights)
 
 ## Overview
 The objective of this challenge is to create an interactive visual that lets users explore the history and evolution of LEGO sets from the past 50 years. The dashboard uses data from LEGO sets released from 1970 to 2022, including details on each set’s theme, pieces, recommended age, retail price, and image.
