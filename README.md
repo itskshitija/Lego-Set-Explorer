@@ -97,3 +97,11 @@ Avg. Pieces = AVERAGE(lego_sets[pieces])
 ![1](https://github.com/user-attachments/assets/cf167a87-ba24-4c50-9881-8caa93bba362)
 
 ![2](https://github.com/user-attachments/assets/c0b6fdbd-18cc-400b-8c84-0b56a1184de0)
+
+
+## Connect 🤝
+- 📩 <b>Email:</b> kshitijachilbule5@gmail.com
+- 👩‍💻 <b>Github:</b> https://github.com/itskshitija
+- 📶 <b>LinkedIn:</b> https://www.linkedin.com/in/kshitija-chilbule-b98515309/
+- 🌐 <b>Medium:</b> https://medium.com/@kshitijachilbule2
+
